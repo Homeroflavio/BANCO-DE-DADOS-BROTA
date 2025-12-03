@@ -20,7 +20,7 @@ O sistema permite:
 
 Todo o banco foi modelado, normalizado e implementado em MySQL.
 
-<p align="left">
+<p align="center">
   <img 
     src="https://github.com/user-attachments/assets/caea0159-6708-40b8-a3b1-60d7f5231f68"
     width="600"
