@@ -1,2 +1,2 @@
-# BANCO-DE-DADOS-BROTA
-Banco de Dados da aplicação Brota
+# Sistema de Gestão de Sementes – Projeto Integrador (PI) – Banco de Dados
+
